@@ -17,15 +17,9 @@
 
 ## 🧳 Work Experience
 
-### 1. 🏛 Bharat Economic Forum  
-**Web Dev Intern (Lead, BEF Developers Committee)**  
-📍 Remote | 🗓 May 2025 – Present
-
----
-
-### 2. 🧠 Vcriate  
-**DSA Problem Setter Intern**  
-📍 Remote | 🗓 June 2024 – July 2024
+| Experience 1 | Experience 2 |
+|--------------|--------------|
+| **🏛 Bharat Economic Forum**<br>Web Dev Intern (Lead, BEF Developers Committee)<br>📍 Remote<br>🗓 May 2025 – Present | **🧠 Vcriate**<br>DSA Problem Setter Intern<br>📍 Remote<br>🗓 June 2024 – July 2024 |
 
 ---
 
