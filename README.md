@@ -17,19 +17,63 @@
 
 ## 🧳 Work Experience
 
-<div class="experience-item">
-  <h3>🏛 Bharat Economic Forum</h3>
-  <p><strong>Web Dev Intern (Lead, BEF Developers Committee)</strong></p>
-  <p>📍 Remote | 🗓 May 2025 – Present</p>
-</div>
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <td style="width: 45%; padding-right: 30px; vertical-align: top; position: relative;">
 
-<hr/>
+      <!-- Marker circle with number 1 -->
+      <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <div style="
+          background-color: #4CAF50; 
+          color: white; 
+          font-weight: bold; 
+          border-radius: 50%; 
+          width: 30px; 
+          height: 30px; 
+          display: flex; 
+          justify-content: center; 
+          align-items: center; 
+          margin-right: 10px;
+          font-family: Arial, sans-serif;
+          ">
+          1
+        </div>
+        <h3 style="margin: 0;">🏛 Bharat Economic Forum</h3>
+      </div>
 
-<div class="experience-item">
-  <h3>🧠 Vcriate</h3>
-  <p><strong>DSA Problem Setter Intern</strong></p>
-  <p>📍 Remote | 🗓 June 2024 – July 2024</p>
-</div>
+      <p><strong>Web Dev Intern (Lead, BEF Developers Committee)</strong></p>
+      <p>📍 Remote | 🗓 May 2025 – Present</p>
+    </td>
+
+    <!-- Vertical divider -->
+    <td style="width: 10px; border-left: 2px solid #ddd;"></td>
+
+    <td style="width: 45%; padding-left: 30px; vertical-align: top; position: relative;">
+      <!-- Marker circle with number 2 -->
+      <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <div style="
+          background-color: #2196F3; 
+          color: white; 
+          font-weight: bold; 
+          border-radius: 50%; 
+          width: 30px; 
+          height: 30px; 
+          display: flex; 
+          justify-content: center; 
+          align-items: center; 
+          margin-right: 10px;
+          font-family: Arial, sans-serif;
+          ">
+          2
+        </div>
+        <h3 style="margin: 0;">🧠 Vcriate</h3>
+      </div>
+
+      <p><strong>DSA Problem Setter Intern</strong></p>
+      <p>📍 Remote | 🗓 June 2024 – July 2024</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -94,11 +138,14 @@
   <a href="mailto:kanhaiyasahutools@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://github.com/Kanhaiyasahu01"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/></a>
   <a href="https://leetcode.com/u/kanhaiyasahu01/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
-  <a href="https://www.codechef.com/users/kanhaiya0101"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codechef-a-competitive-programming-community-logo-color-tal-revivo.png"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Scroll+down+to+check+my+Projects!;Happy+Coding+💻" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Scroll+down+to+check+my+Projects!;Happy+Coding+💻" 
+    alt="Typing SVG" 
+  />
 </p>
+
