@@ -17,55 +17,15 @@
 
 ## 🧳 Work Experience
 
-<div style="max-width: 700px; margin: auto;">
+### 1. 🏛 Bharat Economic Forum  
+**Web Dev Intern (Lead, BEF Developers Committee)**  
+📍 Remote | 🗓 May 2025 – Present
 
-  <!-- Experience 1 -->
-  <div style="display: flex; align-items: center; margin-bottom: 12px;">
-    <div style="
-      background-color: #4CAF50; 
-      color: white; 
-      font-weight: bold; 
-      border-radius: 50%; 
-      width: 30px; 
-      height: 30px; 
-      display: flex; 
-      justify-content: center; 
-      align-items: center; 
-      margin-right: 12px;
-      font-family: Arial, sans-serif;
-    ">
-      1
-    </div>
-    <h3 style="margin: 0;">🏛 Bharat Economic Forum</h3>
-  </div>
-  <p><strong>Web Dev Intern (Lead, BEF Developers Committee)</strong></p>
-  <p>📍 Remote | 🗓 May 2025 – Present</p>
-  
-  <hr style="margin: 20px 0;" />
+---
 
-  <!-- Experience 2 -->
-  <div style="display: flex; align-items: center; margin-bottom: 12px;">
-    <div style="
-      background-color: #2196F3; 
-      color: white; 
-      font-weight: bold; 
-      border-radius: 50%; 
-      width: 30px; 
-      height: 30px; 
-      display: flex; 
-      justify-content: center; 
-      align-items: center; 
-      margin-right: 12px;
-      font-family: Arial, sans-serif;
-    ">
-      2
-    </div>
-    <h3 style="margin: 0;">🧠 Vcriate</h3>
-  </div>
-  <p><strong>DSA Problem Setter Intern</strong></p>
-  <p>📍 Remote | 🗓 June 2024 – July 2024</p>
-
-</div>
+### 2. 🧠 Vcriate  
+**DSA Problem Setter Intern**  
+📍 Remote | 🗓 June 2024 – July 2024
 
 ---
 
