@@ -1,30 +1,62 @@
-# 👋 Hi, I'm Kanhaiya Lal Sahu
+<h1 align="center">👋 Hi, I'm Kanhaiya Lal Sahu</h1>
 
-🎓 B.Tech (IT), Government Engineering College Bilaspur  
-🌐 [Portfolio](https://kanhaiya-portfolio-01.vercel.app/) • 📧 [Email](mailto:kanhaiyasahutools@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/kanhaiyasahu01/)
+<p align="center">
+  🚀 Aspiring Software Engineer | 💻 Full Stack Developer | 🎯 App Development Lead @ Google Developer Students Club, GEC Bilaspur<br/>
+  🎓 B.Tech (IT) Undergraduate, 2026 — Government Engineering College, Bilaspur<br/>
+  <br/>
+  🌐 <a href="https://kanhaiya-portfolio-01.vercel.app/">Portfolio</a> • 
+  📧 <a href="mailto:kanhaiyasahutools@gmail.com">Email</a> • 
+  💼 <a href="https://www.linkedin.com/in/kanhaiyasahu01/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanhaiyasahu01&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧳 Work Experience
 
-I'm a developer with a strong foundation in **Full Stack Development** and **Data Structures & Algorithms**. Passionate about creating scalable solutions and contributing to impactful tech initiatives.  
-Currently contributing at **Bharat Economic Forum** as a Web Dev Intern (Lead), and have authored 70+ DSA problems at Vcriate.
+<div class="experience-item">
+  <h3>🏛 Bharat Economic Forum</h3>
+  <p><strong>Web Dev Intern (Lead, BEF Developers Committee)</strong></p>
+  <p>📍 Remote | 🗓 May 2025 – Present</p>
+</div>
+
+<hr/>
+
+<div class="experience-item">
+  <h3>🧠 Vcriate</h3>
+  <p><strong>DSA Problem Setter Intern</strong></p>
+  <p>📍 Remote | 🗓 June 2024 – July 2024</p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-`C` `C++` `Python` `JavaScript` `TypeScript`  
-`React.js` `Next.js` `Node.js` `Express.js`  
-`MongoDB` `PostgreSQL` `Docker` `TailwindCSS`
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-postgresql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanhaiyasahu01&show_icons=true&theme=radical" alt="Kanhaiya's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kanhaiyasahu01&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanhaiyasahu01&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanhaiyasahu01&theme=radical&hide_border=true" width="47%" />
 </p>
 
 ---
@@ -47,12 +79,26 @@ Currently contributing at **Bharat Economic Forum** as a Web Dev Intern (Lead), 
 
 ## 🏆 Highlights
 
-- 🥇 1st - TechNova Ideathon 2024 (LCIT)
-- 🥈 2nd - IEEE ICECCT “Wait Now” Project (CSVTU)
-- 🥈 2nd - Research Paper on Video LLM (GECB)
-- 🥇 Top Performer - Hackovation 2024
-- 🧠 1000+ DSA Problems Solved
+- 🥇 1st – TechNova Ideathon 2024 (LCIT)
+- 🥈 2nd – IEEE ICECCT “Wait Now” Project (CSVTU)
+- 🥈 2nd – Research Paper on Video LLMs (GECB)
+- 🏅 Top Performer – Hackovation 2024
+- ✅ Solved 1000+ DSA Problems
 
 ---
 
-> 📌 **Scroll down** to check out my highlighted projects below!
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanhaiyasahu01/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:kanhaiyasahutools@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+  <a href="https://github.com/Kanhaiyasahu01"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/></a>
+  <a href="https://leetcode.com/u/kanhaiyasahu01/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
+  <a href="https://www.codechef.com/users/kanhaiya0101"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-codechef-a-competitive-programming-community-logo-color-tal-revivo.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7DC6F&center=true&vCenter=true&width=435&lines=Scroll+down+to+check+my+Projects!;Happy+Coding+💻" alt="Typing SVG" />
+</p>
