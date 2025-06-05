@@ -17,9 +17,19 @@
 
 ## 🧳 Work Experience
 
-| Experience 1 | Experience 2 |
-|--------------|--------------|
-| **🏛 Bharat Economic Forum**<br>Web Dev Intern (Lead, BEF Developers Committee)<br>📍 Remote<br>🗓 May 2025 – Present | **🧠 Vcriate**<br>DSA Problem Setter Intern<br>📍 Remote<br>🗓 June 2024 – July 2024 |
+**🏛 Bharat Economic Forum**  
+*Web Development Intern (Lead, BEF Developers Committee)*  
+📍 Remote | 🗓 May 2025 – Present  
+- Leading the development team for the official Bharat Economic Forum website (MERN stack).
+- Collaborating with industry leaders across domains to drive digital innovation.
+- Supporting the Beauty & Wellness sector through impactful web initiatives.
+
+**🧠 Vcriate**  
+*DSA Problem Setter Intern*  
+📍 Remote | 🗓 June 2024 – July 2024  
+- Designed 70+ high-quality DSA problems (Trees, Graphs, Dynamic Programming)
+- Ensured precision through collaborative review with subject matter experts and team members.
+- Wrote documentation and curated explanations for DSA enthusiasts.
 
 ---
 
@@ -84,4 +94,9 @@
   <a href="mailto:kanhaiyasahutools@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
   <a href="https://github.com/Kanhaiyasahu01"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/></a>
   <a href="https://leetcode.com/u/kanhaiyasahu01/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/></a>
+</p>
+
+---
+<p align="center">
+  <b>👇 Explore my top projects below or check out my <a href="https://github.com/Kanhaiyasahu01?tab=repositories">GitHub repositories</a> 👇</b>
 </p>
