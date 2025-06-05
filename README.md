@@ -35,19 +35,20 @@
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-postgresql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+<p align="center"> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" /> 
+<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React.js" />
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" />
+<img src="https://img.icons8.com/fluency/48/000000/express-js.png" title="Express.js" /> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" /> 
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" /> 
+<img src="https://img.icons8.com/ios-filled/48/4a90e2/django.png" title="Django" /> 
+<img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker" />
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" title="Tailwind CSS" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" />
 </p>
 
 ---
