@@ -8,11 +8,6 @@
   📧 <a href="mailto:kanhaiyasahutools@gmail.com">Email</a> • 
   💼 <a href="https://www.linkedin.com/in/kanhaiyasahu01/">LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanhaiyasahu01&label=Profile+Views&color=brightgreen" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧳 Work Experience
