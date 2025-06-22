@@ -8,8 +8,6 @@
   📧 <a href="mailto:kanhaiyasahutools@gmail.com">Email</a> • 
   💼 <a href="https://www.linkedin.com/in/kanhaiyasahu01/">LinkedIn</a>
 </p>
----
-
 ## 🧳 Work Experience
 
 **🏛 Bharat Economic Forum**  
