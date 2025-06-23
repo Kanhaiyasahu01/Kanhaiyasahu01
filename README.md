@@ -13,9 +13,5 @@
 </p>
 
 <p align="center">
-  <b>💡 Creating the lines of code that turns ideas into reality!</b>
-</p>
-
-<p align="center">
   <b>👇 Explore my top projects below or check out my <a href="https://github.com/Kanhaiyasahu01?tab=repositories">GitHub repositories</a> 👇</b>
 </p>
