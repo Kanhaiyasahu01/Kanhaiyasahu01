@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kanhaiya Lal Sahu</h1>
 
 <p align="center">
-  🚀 Aspiring Software Engineer | 💻 Ex-Software Developer Intern @Inscripts| 💻 Ex-Full Stack Deveoper Intern @Bharat Economic Forum | 🎯 Ex-CPS Intern @ Vcriate | 🧠 LeetCode: Knight (1850+) | 📱 App Dev Lead @ GDSC GEC Bilaspur<br/>
+  🚀 SIH'25 Finalist | 💻 Ex-Software Developer Intern @Inscripts| 💻 Ex-Full Stack Deveoper Intern @Bharat Economic Forum | 🎯 Ex-CPS Intern @ Vcriate | 🧠 LeetCode: Knight (1850+) | 📱 App Dev Lead @ GDSC GEC Bilaspur<br/>
   🎓 B.Tech (IT) Undergraduate, 2026 — Government Engineering College, Bilaspur
 </p>
 
